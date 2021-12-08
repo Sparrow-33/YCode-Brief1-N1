@@ -3,7 +3,7 @@
 ### Le fichier .fig contient :
 
 1- Sketch :\
-          * Zoning\
+          - Zoning\
           * Plan du siteWeb\
 2- WireFrame\
 3- Mockup\
